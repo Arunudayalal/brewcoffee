@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    
+    
+}
+.heade{
+    width: 100%;
+    height: 160px;
+    background-color:  peru;
+    text-align: center;
+    display: flex;
+   
+   
+
+}
+
+#img1{
+    width: 10%;
+    height: 150px;
+    padding-top: 2%;
+}
+.caption{
+    font-size: 110px;
+    padding-left: 5%;
+    padding-top: 2%;
+    font-family: "Rubik Beastly", system-ui;
+    
+    
+}
+.subhead{
+    width: 100%;
+    height: 30px;
+    background-color: peru;
+    text-align: center;
+    padding-bottom: 5px;
+    font-family: "Rubik Beastly", system-ui;  
+    
+    position: sticky;
+    top: 0;
+    
+    
+    
+
+
+}
+.con1{
+    margin: 7%;
+    margin-top: 4%;
+    margin-bottom: 3%;
+    align-items: center;
+    font-family: "Courgette", cursive;
+    text-align: justify;
+}
+h1{
+
+font-size: xx-large;
+text-align: center;
+font-family: "Courgette", cursive;
+font-weight: bold;
+color: chocolate;
+
+
+}
+#list{
+   
+     text-align: justify;
+}
+.items{
+    margin: 6%;
+    text-align: justify;
+    
+}
+.types{
+    margin: 3%;
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+
+}
+img{
+    width: 100%;
+    height:350px;
+    border-radius: 5%;
+    
+}
+.gal
+{
+    width: 100%;
+    height: 1050px;
+    background-color: peru;
+   
+}
+#images{
+    width: 80% ;
+    height:250px ;
+}
+.form1
+{
+    width: 60%;
+    height: 300px;
+    /* margin-left: 250px; */
+    background-color: peru ;
+    margin: 2%;
+    
+}
+.foot
+{
+    background-color: peru  ;
+}
+
+#fimg{
+    width: 50%;
+    height: 200px;
+}
+p a{
+    text-decoration: none;
+    color: black;
+}
