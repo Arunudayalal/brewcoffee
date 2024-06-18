@@ -95,6 +95,10 @@ img{
     width: 80% ;
     height:250px ;
 }
+#images:hover{
+    box-shadow: 2px 4px 6px 8px black;
+    cursor: crosshair;
+}
 .form1
 {
     width: 60%;
@@ -116,4 +120,20 @@ img{
 p a{
     text-decoration: none;
     color: black;
+}
+.headphone{
+    position: fixed;
+    top: 80%;
+    right: 5%;
+   z-index: 1;
+  
+
+}
+#iconimage{
+    width:50px ;
+    height:50px ;
+}
+.foot{
+    position: relative;
+    z-index: 2;
 }
